@@ -89,6 +89,8 @@ Nest is [MIT licensed](LICENSE).
   . Express
   . MongoDB
   . Jest
+  . Axios
+  . zlib
   . etc
 
   - Banco de dados utilizado
