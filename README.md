@@ -26,7 +26,13 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+## Instalação
+**Instalar repositório:**
+  - Ter docker e docker compose instalado
+
+  1. Acessar o diretório do projeto (Test-Teddy-Open)
+
+  2. Executar o comando de instalação 
 
 ```bash
 $ yarn install
@@ -74,6 +80,19 @@ Nest is [MIT licensed](LICENSE).
 
 ## Test-Teddy_Open 
 
-# CRUD 
+## Arquitetura do Projeto
+```
+  Projeto desenvolvido em Nest/Typescript.
+  Foi criado utilizando a Arquitetura SOLID, DOCKER e DOCKER COMPOSE
 
-- Recuperar uma lista de Produtos
+  - Bibliotecas utilizadas
+  . Express
+  . MongoDB
+  . Jest
+  . etc
+
+  - Banco de dados utilizado
+  . Mongoose
+    
+```
+
